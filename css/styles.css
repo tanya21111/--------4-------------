@@ -84,6 +84,32 @@ h2{
     font-size: 1.2rem;
 }
 
+.content_about {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffcceb;
+    font-size: 1.2rem;
+}
+
+.content_contact {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffcceb;
+    font-size: 1.2rem;
+}
+
+.content_services {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffcceb;
+    font-size: 1.2rem;
+}
+
+main section ul li {
+    padding: 0px 10px 0px 10px;
+    list-style: none;
+}
+
 .news {
     width: 25%;
     background-color: #ffdaf0;
